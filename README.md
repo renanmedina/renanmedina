@@ -2,7 +2,7 @@
 # Hey, whats up!? I'm glad you found me! ![GitHub followers](https://img.shields.io/github/followers/renanmedina?label=Follow&style=social)
 
 ## So, what can I say about myself?
-My name is Renan Medina, I'm a brazilian senior software developer located in Rio de Janeiro, RJ!. I'm a passionate developer who loves to solve problems and really enjoy coding and architecting solutions. I'm very passionate about clean code and hexagonal architecture, event driven systems and distributed systems. As for my free time I usually spend most of my time reading books, learning something new in the tech industry and playing video games 🕹️.
+My name is Renan Medina, I'm a brazilian senior software developer located in Rio de Janeiro, RJ!. I'm a passionate developer who loves to solve problems and really enjoy coding and architecting solutions. I'm all about clean code and hexagonal architecture, event driven systems and distributed systems. As for my free time I usually spend most of it reading books, learning something new in the tech industry and playing video games 🕹️.
 
 <a href="https://github.com/renanmedina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/renan-medina-20699a9b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
