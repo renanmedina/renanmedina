@@ -6,6 +6,10 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
 
 <a href="https://github.com/renanmedina" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/renan-medina-20699a9b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
+### My Certifications
+<a href="https://www.zend-zce.com/en/yellow-pages/ZEND028207" target="_BLANK"><img alt="Zend PHP Professional Engineer" src="https://www.zend-zce.com/static/img/zcedirectory/ZCPE-icon.png"/></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/2e9f3c9a-aac9-4faa-b1c6-bff3570ff426" target="_BLANK"><img alt="AWS - DVA-C01" src="https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>&nbsp;&nbsp;<a href="https://www.credly.com/badges/ead22b11-05e3-4e0f-8039-5463a434294b" target="_BLANK"><img alt="Oracle - Java SE 7 Programmer" src="https://images.credly.com/size/80x80/images/9956323d-90eb-4a7a-9fc6-4750ce433d3a/Oracle-Certification-badge_OC-Associate600X600.png"/></a>
+
+
 ### Technologies I love and use
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
