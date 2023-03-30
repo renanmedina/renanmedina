@@ -51,6 +51,6 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
   </tr>
 </table>
 
-### My Waka time Status
+### My WakaTime Status
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
