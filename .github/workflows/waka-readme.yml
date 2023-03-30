@@ -12,5 +12,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          LANG_COUNT: 50
+          SHOW_TIME: true
           TIME_RANGE: "last_30_days"
