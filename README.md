@@ -51,7 +51,8 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=renanmedina&theme=dracula">
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
     </td>
   </tr>
 </table>
