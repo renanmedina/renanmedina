@@ -52,7 +52,13 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
   <tr>
     <td colspan="2" align="center">
       <!--START_SECTION:waka-->
-      <!--END_SECTION:waka-->
+
+```text
+Ruby         13 hrs 46 mins  █████████████▒░░░░░░░░░░░   53.84 %
+Other        4 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
+```
+
+<!--END_SECTION:waka-->
     </td>
   </tr>
 </table>
