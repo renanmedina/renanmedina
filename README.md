@@ -55,12 +55,12 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 110 hrs 37 mins
+Total Time: 115 hrs 21 mins
 
-Ruby         43 hrs 33 mins  ██████████░░░░░░░░░░░░░░░   39.38 %
-Terraform    13 hrs 53 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-JavaScript   11 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Other        10 hrs 21 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Ruby         46 hrs 39 mins  ██████████░░░░░░░░░░░░░░░   40.44 %
+Terraform    13 hrs 53 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+JavaScript   11 hrs 21 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Other        10 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
 ```
 
 <!--END_SECTION:waka-->
