@@ -51,16 +51,10 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
   </tr>
 </table>
 
+### My Language WakaTime Status (Last 30 days)
+<figure><embed src="https://wakatime.com/share/@18b7d792-22c3-4994-b5dc-75f9f83ccdec/5a5414f7-975d-4b6a-93ac-23ca6436946b.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@18b7d792-22c3-4994-b5dc-75f9f83ccdec/f85855cb-b9c7-405c-9cf0-da6d29b09c8e.svg"></embed></figure>
+
 ### My WakaTime Status (Last 30 days)
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 115 hrs 21 mins
-
-Ruby         46 hrs 39 mins  ██████████░░░░░░░░░░░░░░░   40.44 %
-Terraform    13 hrs 53 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-JavaScript   11 hrs 21 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-Other        10 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-```
-
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@18b7d792-22c3-4994-b5dc-75f9f83ccdec/4d6902a3-9cdc-40c1-81c4-2c3141b6c50f.svg"></embed></figure>
