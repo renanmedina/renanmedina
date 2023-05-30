@@ -54,6 +54,3 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
 
 ### My Language WakaTime Status (Last 30 days)
 <img src="https://wakatime.com/share/@18b7d792-22c3-4994-b5dc-75f9f83ccdec/d65501ec-1b6b-4a44-a144-5b05fcd426cb.svg" width="700" height="700"></img>
-
-### My WakaTime Status (Last 30 days)
-<img src="https://wakatime.com/share/@18b7d792-22c3-4994-b5dc-75f9f83ccdec/f740c2a1-0c4b-4c8e-abc3-a06e28ee8e63.svg" width="700" height="700"></img>
