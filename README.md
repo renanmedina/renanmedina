@@ -17,6 +17,8 @@ My name is Renan Medina, I'm a brazilian senior software developer located in Ri
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-007ACC?style=flat-square&logo=golang&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-764ABC?style=flat-square&logo=elixir&logoColor=white" />
+  <img alt="PhoenixFramework" src="https://img.shields.io/badge/-Phoenix-764ABC?style=flat-square&logo=phoenixframework&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
